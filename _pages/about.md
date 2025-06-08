@@ -8,4 +8,6 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [East China Normal University](https://www.ecnu.edu.cn/). My research interest includes machine learning, music generation model, sentimental classification.
 
+10225102496@stu.ecnu.edu.cn
+
 [Email](10225102496@stu.ecnu.edu.cn) / [Github](https://github.com/b1ushnr) 
